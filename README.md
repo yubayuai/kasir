@@ -50,8 +50,8 @@ php artisan db:seed --class=SampleDataSeeder
 Update these variables in your `.env` to connect with the RS Delta Surya API:
 ```env
 API_DELTA_SURYA_BASE_URL=https://recruitment.rsdeltasurya.com/api/v1
-API_DELTA_SURYA_EMAIL=your-email@example.com
-API_DELTA_SURYA_PASSWORD=081234567890 # Your phone number format
+API_DELTA_SURYA_EMAIL=achmadbayualbaitalfatich@gmail.com
+API_DELTA_SURYA_PASSWORD=08970415854 # Format nomor HP Anda
 
 # Optional: Telegram reporting
 TELEGRAM_WEBHOOK_URL=https://cutt.ly/interview-report
